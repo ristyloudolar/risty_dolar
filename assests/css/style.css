@@ -266,6 +266,10 @@ header {
 
 	}
 
+	.siteDetails p {
+		font-size: 12px;
+	}
+
 
 	.csp3img {
 		padding: 26px 50px;
